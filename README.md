@@ -33,5 +33,4 @@ Ingeniero Informático especializado en sistemas empotrados e IoT, recién gradu
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Estadísticas**
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoqv&layout=compact&theme=dark&hide_border=true)
 ![Racha](https://streak-stats.demolab.com?user=albertoqv&theme=dark&hide_border=true)
