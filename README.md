@@ -12,10 +12,10 @@ Ingeniero Informático especializado en sistemas empotrados e IoT, recién gradu
 
 **Repos destacados**
 
-🔗 [Analizador de cobertura LoRaWAN](enlace-pendiente) — TFG, nota 9,5/10
-🔗 [PolipoX](enlace-pendiente) — Hackathon IMIBIC, asistente de voz para uso clínico
-🔗 [aritmetica-eso](https://github.com/albertoqv/aritmetica-eso) — PWA educativa, en uso real en un aula de 1º ESO
-🔗 [Summer Camp Manager](enlace-pendiente) — Arquitectura Limpia + TDD, proyecto de equipo
+- 🔗 [Analizador de cobertura LoRaWAN](enlace-pendiente) — TFG, nota 9,5/10
+- 🔗 [PolipoX](enlace-pendiente) — Hackathon IMIBIC, asistente de voz para uso clínico
+- 🔗 [aritmetica-eso](https://github.com/albertoqv/aritmetica-eso) — PWA educativa, en uso real en un aula de 1º ESO
+- 🔗 [Summer Camp Manager](enlace-pendiente) — Arquitectura Limpia + TDD, proyecto de equipo
 
 **Conecta conmigo**
 
@@ -33,4 +33,5 @@ Ingeniero Informático especializado en sistemas empotrados e IoT, recién gradu
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Estadísticas**
+
 ![Racha](https://streak-stats.demolab.com?user=albertoqv&theme=dark&hide_border=true)
