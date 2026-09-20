@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Alberto Quesada Valle — Ingeniero de Sistemas Empotrados e IoT" width="100%">
+  <img src="banner-readme.png" alt="Alberto Quesada Valle — Ingeniero de Sistemas Empotrados e IoT" width="100%">
 </p>
 
 ### Hola 👋, soy Alberto
