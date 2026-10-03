@@ -4,7 +4,7 @@
 
 ### Hola 👋, soy Alberto
 
-Ingeniero Informático especializado en sistemas empotrados e IoT, recién graduado y con ganas de arrancar en mi primer equipo de desarrollo.
+Ingeniero Informático especializado en sistemas empotrados e IoT y desarollo Software, recién graduado y con ganas de arrancar en mi primer equipo de desarrollo.
 
 - 🔭 Buscando activamente mi primera incorporación a un equipo de desarrollo
 - 💬 Pregúntame sobre: Arduino, LoRaWAN, IoT, C/C++, Python, TDD
