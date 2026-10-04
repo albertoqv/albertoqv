@@ -13,7 +13,7 @@ Ingeniero Informático especializado en sistemas empotrados e IoT y desarollo de
 
 **Repos destacados**
 
-- ⚽ [El Regista](https://github.com/albertoqv/el-regista) — Web para encontrar y comparar futbolistas con datos reales de 33 ligas: fichas con percentiles, jugadores "gemelos" del mismo estilo y rol por menos dinero, rankings, tendencias y pronósticos. API REST en Python (FastAPI) con Arquitectura Limpia y TDD (+500 tests), web en Next.js y TypeScript, PostgreSQL. En producción: [elregista.vercel.app](https://elregista.vercel.app)
+- 🔗 [El Regista](https://github.com/albertoqv/el-regista) — Web para encontrar y comparar futbolistas con datos reales de 33 ligas: fichas con percentiles, jugadores "gemelos" del mismo estilo y rol por menos dinero, rankings, tendencias y pronósticos. API REST en Python (FastAPI) con Arquitectura Limpia y TDD (+500 tests), web en Next.js y TypeScript, PostgreSQL.
 - 🔗 [Analizador de cobertura LoRaWAN](https://github.com/albertoqv/analizador-cobertura-lorawan) — TFG, nota 9,5/10
 - 🔗 [PolipoX](https://github.com/albertoqv/PolipoX) — Hackathon IMIBIC, asistente de voz para uso clínico
 - 🔗 [aritmetica-eso](https://github.com/albertoqv/aritmetica-eso) — PWA educativa, en uso real en un aula de 1º ESO
