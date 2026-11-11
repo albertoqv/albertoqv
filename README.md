@@ -7,7 +7,7 @@
 Ingeniero Informático especializado en sistemas empotrados e IoT y desarollo de software, recién graduado y con ganas de arrancar en mi primer equipo de desarrollo.
 
 - 🔭 Buscando activamente mi primera incorporación a un equipo de desarrollo
-- 🌱 Ahora mismo: [El Regista](https://elregista.vercel.app), scouting de futbolistas con datos reales
+- 🌱 Ahora mismo: [El Regista](https://elregista.onrender.com), scouting de futbolistas con datos reales
 - 💬 Pregúntame sobre: Python, FastAPI, Next.js, TDD, Arquitectura Limpia, IoT, C/C++
 - 📫 Cómo contactarme: [albertoquesadavalle@gmail.com](mailto:albertoquesadavalle@gmail.com)
 
